@@ -1,12 +1,12 @@
 {
     -- ((TODO: Is this a sane regions.lua template?  Probably needs work.))
-    ident=80,
+    ident=81,
     color=0x5e6d91,
-    faction=80,
+    faction=81,
     count=8,
     position={0.1, 1},
     radius={0.1, 0.15},
-    fleets={{80, {
+    fleets={{81, {
         {0, 8000},
         {1, 600}
     }}},
